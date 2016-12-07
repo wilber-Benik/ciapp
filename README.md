@@ -1,2 +1,2 @@
 # ciapp
-programacion web programando en php
+ejemplos usando composer
